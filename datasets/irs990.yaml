@@ -1,6 +1,8 @@
 Name: IRS 990 Filings
 Description: Machine-readable data from certain electronic 990 forms filed with the IRS from 2011 to present.
-Documentation: https://docs.opendata.aws/irs-990/readme.html
+Documentation: 
+  - Official documentation: https://docs.opendata.aws/irs-990/readme.html
+  - Tutorial (3rd-party): https://medium.com/@open990/the-irs-990-e-file-dataset-getting-to-the-chocolatey-center-of-data-deliciousness-90f66097a600
 Contact: https://www.irs.gov/help-resources/navigate-irsgov
 UpdateFrequency: New filings are added regularly
 Tags:
